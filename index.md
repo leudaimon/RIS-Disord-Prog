@@ -5,7 +5,7 @@
 
 The Disordered Progression Space Program is aiming to win the wild race that started in recent years into Space. 
 
-* [Report number 1](/reports/report-1) From a reconnaissance plane to a crewed sub-orbital vehicle. - UPDATED
+* [Report number 1](/reports/report-1.md) From a reconnaissance plane to a crewed sub-orbital vehicle. - UPDATED
 * [Report number 2](reports/report-2) The path to orbit!
 
 
