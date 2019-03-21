@@ -1,5 +1,7 @@
 
-## 'Disordered Progression'
+## Disordered Progression
+![](cover.jpg)
+### A very Brazilian space program
 
 The Disordered Progression Space Program is aiming to win the wild race that started in recent years into Space. 
 
