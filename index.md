@@ -15,7 +15,7 @@ The Disordered Progression Space Program is aiming to win the wild race that sta
 | Mission                                                     | Year | Month | Day | LV                                          | Payload | Destination           |
 |:------------------------------------------------------------|:----:|:-----:|:---:|:--------------------------------------------|:--------|:----------------------|
 | [First flight](/missions/1951-02-15-first-launch.md)  | 1951 | 2     | 15  | [Bonny]        | Bonanza | Atmospheric    |
-| [To space!](/missions/1951-02-18-to-space.md)     | 1951 | 2     | 18  | [Corporal-WAC] | TPT     | Sub-Orbital           |
+| [To space!](/missions/1951-02-18-to-space.md)     | 1951 | 2     | 18  | [Corporal-WAC](/lvs/corporal-wac) | TPT     | Sub-Orbital           |
 | [Recovery](/missions/recovery.md)     | 1951 | 3     | 7   | [Corporal-WAC R] | TPT     | Sub-Orbital           |
 | [Downrange milestone](/missions/downrange.md)  | 1951 | 4     | 8   | [Bumper 100-2B]  | TPT     | Sub-Orbital           |
 | [Sound Barrier](/missions/sound-barrier.md)  | 1951 | 5     | 3   | [Junk Proto] | Junkers | Atmospheric    |
