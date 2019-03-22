@@ -5,6 +5,8 @@
 
 |          |                |
 |----------|----------------|
+| **Launcher:** | [Bumper 100-2B](../lvs/bumper100-2b) |
+| **Payload:** | TPT |
 | **Destination:** | Sub-Orbital |
 | **Mission duration:** | Minutes |
 | **Apogee:**| above 600 km |

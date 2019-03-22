@@ -5,6 +5,8 @@
 
 |          |                |
 |----------|----------------|
+| **Launcher:** | [Corporal-WAC R](../lvs/corporal-wac-r) |
+| **Payload:** | TPT |
 | **Destination:** | Sub-Orbital |
 | **Mission duration:** | Minutes |
 | **Apogee:**| above 140 km |

@@ -11,6 +11,8 @@ date: "1951-02-15"
 
 |          |                |
 |----------|----------------|
+| **Launcher:** | NA |
+| **Payload:** | [Bonny](../lvs/bonny.md) |
 | **Destination:** | Atmospheric flight |
 | **Mission duration:** | ~30 minutes |
 | **Maximum altitude:**| 10.5 km |
