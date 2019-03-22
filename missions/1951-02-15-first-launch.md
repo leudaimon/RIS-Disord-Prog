@@ -8,12 +8,13 @@ date: "1951-02-15"
 
 ![](FirstFlight_Y0001-D46-1.jpg)
 ### 15-02-1951
+
 |          |                |
 |----------|----------------|
-| **Destination** | Atmospheric flight |
-| **Mission duration** | ~30 minutes |
+| **Destination:** | Atmospheric flight |
+| **Mission duration:** | ~30 minutes |
 | **Maximum altitude:**| 10.5 km |
-| **Maximum velocity** | not measured |
+| **Maximum velocity:** | not measured |
 
 To officially inaugurate our space program, we acquired a basic recoinassance airplane to make an flight around
 NASC, our Northern Alcantara Space Center. It acquired some meteorological data from the surroundings and showed the cappability of our amazing runway, which will be used by experimental Supersonic flights at a later date.
