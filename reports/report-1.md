@@ -32,7 +32,7 @@ Still, a prototype of the rocket that was going to be used for this crewed fligh
 
 The much bigger rocket, that was being developed to show the government and investors that an orbital vehicle is possible, was already in active development as soon as the work in the recoverable WAC-Corporal was finished.
 Sporting a much bigger engine booster, fed by a turbopump, and a second stage with two WAC-Corporal engines, [this rocket](../lvs/bumper-100-2b) was both the first two-staged rocket and the first air-lit rocket to ever be launched.
-[In this mission](/missions/downrange.md), it was sent in a precisely defined angle so that it would arch during the burn of the first stage, and by engine burnout it coasted for a few seconds until out of the denser atmosphere. 
+[In this mission](../missions/downrange.md), it was sent in a precisely defined angle so that it would arch during the burn of the first stage, and by engine burnout it coasted for a few seconds until out of the denser atmosphere. 
 Then, a spin motor was fired and the two WAC-Corporal engines ignited, while keeping a pitch close to 35°. 
 
 This made this rocket achieve then unmatched altitude (above 600km), velocity and distance, showing that the development of an orbital rocket is possible. In a controversial move the DPSP administration 
@@ -61,7 +61,7 @@ investment in R&D and hiring of entire new teams, things started to get feasible
 to send the first astronauts into the border of space. 
 
 This capsule was matched with the first stage of our Bumper 100 rocket, yielding a very powerful [rocket](../lvs/100-crew) more than able to send the capsule with the first astronaut into 200km of altitude.
-
- 
- 
+[This is how](/missions/crewed-so.md) on June 23, 1951, Irina Samarina became the first astronaut for DPSP, reaching an apoge of 219km, more than 2km/s in the end of the engine burn, and forces of 
+almost 15G, before splashing in the ocean. Given the extreme conditions she was exposed to, the engineering teams defined 200km as the maximum safe apogee on this vehicle, to the discontent of the other future astronauts that would 
+not be able to match Irina's record.
  
