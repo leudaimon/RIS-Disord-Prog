@@ -1,6 +1,6 @@
 ## Kissing the heavens!
 
-![](.jpg)
+![Looks scary? Well it is!](crew-so1.jpg)
 ### 23 - 06 - 1951
 
 |          |                |
