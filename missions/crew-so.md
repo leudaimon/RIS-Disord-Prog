@@ -5,7 +5,7 @@
 
 |          |                |
 |----------|----------------|
-| **Launcher:** | [../lvs/100-crew.md] |
+| **Launcher:** | [100 Crew]../lvs/100-crew.md |
 | **Payload:** | X-1 |
 | **Destination:** | Sub-Orbital |
 | **Mission duration:** | Minutes |
