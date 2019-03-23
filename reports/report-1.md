@@ -43,16 +43,16 @@ Translating: I picked crewed suborbital right after suborbital return, which was
 Once I completed the Downrange milestone I picked First Orbit, and invested in the VAB up to 0.25 BP/s, and then started getting R&D points
 ```
 
-Less than a month later, the first rocket plane developed by the BPSP was ready. It was a big, heavy and barely maneuverable beast, but still managed to fulfill its role. 
-In a very suspenseful flight, on of the WAC-Corporal rocket engines failed to ignite, but the pilot managed to compensate for the reduced thrust by going into a deeper dive, spend just barely 30s above
+Less than a month later, the [first rocket plane](../lvs/junk.md) developed by the BPSP was ready. It was a big, heavy and barely maneuverable beast, but still managed to fulfill its role. 
+In a [very suspenseful flight](../missions/sound-barrier.md), on of the WAC-Corporal rocket engines failed to ignite, but the pilot managed to compensate for the reduced thrust by going into a deeper dive, spend just barely 30s above
 the speed of the sound. Enough for the International Aeronautics Federation to qualify the record. This achievement drew a lot of attention into the brave pilots, and also the DPSP in general.
 Even though this was a one-time stunt, and not really the path the Space Program was planning to follow in the future, with a heavy investment in vertically launched rockets both for crewed
 suborbital flight and the final aim of orbital flight, the DPSP administrators used this attention to make a very bold statement. They promised that in less than two years, briefly after the first
 satellite to be launched, they would launch a much more capable one, able to study in detail the environment around the Earth and evaluate if it is suitable for crewed orbital craft or if there are any hazards.
 
 ```
-Translating: After a scare, I completed sound barrier and got the First Science Satellite contract. With it, I bought a new pad, and pushed R&D into 19/year, 
-making the half researched supersonic node in less than 2 weeks
+Translating: After a scare, I completed sound barrier and got the First Science Satellite contract. 
+With it, I bought a new pad, and pushed R&D into 19/year, making the half researched supersonic node in less than 2 weeks
 ```
 
 The more sane and cautious scientific and even technical engineering community considered this promise pure madness, as the technology in several different areas was not even starting to be developed for such a feat.
