@@ -1,11 +1,11 @@
 ## Kissing the heavens!
 
-![Looks scary? Well it is!](crew-so1.jpg)
+![](crew﻿-so1.jpg)
 ### 23 - 06 - 1951
 
 |          |                |
 |----------|----------------|
-| **Launcher:** | [100 Crew]../lvs/100-crew.md |
+| **Launcher:** | [100 Crew](../lvs/100-crew.md) |
 | **Payload:** | X-1 |
 | **Destination:** | Sub-Orbital |
 | **Mission duration:** | Minutes |
