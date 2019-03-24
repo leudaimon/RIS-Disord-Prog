@@ -13,8 +13,8 @@ Subsequent upgrades, both in miniaturization of the electronic components allowi
 engines to send probes all the way to impact the moon. These later developments are still being researched and designed, but this general approach was chosen because it allowed for a tested and reliable 
 LV once the DPSP had the technology to try moon shots.
 
-With this general strategy in place, the R&D teams started researching new generations of engines, along with avionics and tracking systems for the rockets. In parallel, a new pad for this rocket started
-construction, and a tracking station also started construction. In the meantime, the crewed suborbital flights were expanded to include other experiments along with them - both some biological samples to 
+With this general strategy in place, the R&D teams started researching new generations of engines, along with avionics and tracking systems for the rockets. In parallel, a new pad for this rocket and a tracking station started construction. 
+In the meantime, the crewed suborbital flights were expanded to include other experiments along with them - both some biological samples to 
 test the effect of free fall on other kinds of organisms and photographic equipment to start perfecting the techniques for photography from space, seen as one of the most relevant potential uses of
 satellites in the future. 
 

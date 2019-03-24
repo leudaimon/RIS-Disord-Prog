@@ -1,18 +1,18 @@
 ## Useful sats are also possible
 
 ![]()
-### 10 - 07 - 1952
+### 12 - 11 - 1952
 
 |          |                |
 |----------|----------------|
 | **Launcher:** | [LV-1 T1](../lvs/lv1-t1) |
 | **Payload:** | ST-1 |
 | **Destination:** | LEO |
-| **Perigee:**| 314 km |
-| **Apogee:**| 804 km |
-| **Inclination:** | 96° |
+| **Perigee:**| 238 km |
+| **Apogee:**| 2156 km |
+| **Inclination:** | 75° |
 
-**Mission acomplised:** First solar satellite and First sun-synchronous satellite
+**Mission acomplised:** First science satellite and Atmospheric Analysis
 
 This mission 
 
