@@ -6,7 +6,7 @@
 |          |                |
 |----------|----------------|
 | **Launcher:** | [LV-1 T1](../lvs/lv1-t1) |
-| **Payload:** | ST-1 |
+| **Payload:** | ST-0 |
 | **Destination:** | LEO |
 | **Mission duration:** |  |
 | **Perigee:**| 172 km |

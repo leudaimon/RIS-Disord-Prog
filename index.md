@@ -27,10 +27,14 @@ The Disordered Progression Space Program is aiming to win the wild race that sta
 | [Space Photo 2](/missions/crew-photo2.md)             | 1951 | 24    | 10  | [100 Crew Photo]                            | X-1        | Sub-Orbital           |
 | [X-Plane high](/missions/xplane-high.md)              | 1951 | 11    | 15  | [100 Crew]                                  | X-1        | Sub-Orbital           |
 | [Orbit!!!](/missions/first-orbit.md)                  | 1952 | 04    | 09  | [LV-1 T1]                                   | ST-0       | LEO                   |
-| [Solar SSO](/missions/first-orbit.md)                 | 1952 | 07    | 10  | [LV-1 T1]                                   | ST-0 solar | LEO                   |
+| [Solar SSO](/missions/sso-orbit.md)                 | 1952 | 07    | 10  | [LV-1 T1]                                   | ST-0 solar | LEO                     |
 | [X-Plane high](/missions/xplane-high.md)              | 1952 | 07    | 17  | [100 Crew]                                  | X-1        | Sub-Orbital           |
 | [X-Plane high](/missions/xplane-high.md)              | 1952 | 07    | 26  | [100 Crew]                                  | X-1        | Sub-Orbital           |
 | [Science Satellite](/missions/science-orbit.md)       | 1952 | 11    | 12  | [LV-1 T1]                                   | ST-0 Sci   | LEO                   |
+| [Navigation Satellite](/missions/first-nav.md)       | 1953 | 02    | 04  | [LV-1 T1]                                    | ST-0 Payload   | LEO               |
+| [Weather Satellite](/missions/first-weather.md)       | 1953 | 04    | 14  | [LV-1 T1b]                                   | ST-1 Payload   | **FAILURE**      |
+| [Weather Satellite](/missions/first-weather.md)       | 1953 | 06    | 16  | [LV-1 T1b]                                   | ST-1 Payload   | LEO              |
+| [NavSat 1](/missions/navsat1.md)                      | 1953 | 08    | 07  | [LV-1 T1b]                                    | ST-1 Payload   | LEO             |
 
 ### Technology already developed:
 
@@ -44,3 +48,5 @@ The Disordered Progression Space Program is aiming to win the wild race that sta
 1. Basic Science - July 1952
 1. Satellite era Science - October 1952
 1. Post-War Materials Science - November 1952
+1. Basic Avionics and Probes - March 1953
+1. Early Materials Science - June 1953
