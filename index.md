@@ -8,7 +8,7 @@ The Disordered Progression Space Program is aiming to win the wild race that sta
 * [Report #2](/reports/report-2.md) The path to satellites.
 
 
-### Missions completed so far 
+### Launches completed so far 
 
 
 | Mission                                               | Year | Month | Day | LV                                          | Payload    | Destination           |
@@ -38,7 +38,7 @@ The Disordered Progression Space Program is aiming to win the wild race that sta
 | [WatherSat 1](/missions/weathersat1.md)               | 1953 | 09    | 27  | [LV-1 T1b](/lvs/lv1-t1b)                    | ST-1 49 Payload | **FAILURE**      |
 | [Luna 1](/missions/first-lunar-impact.md)             | 1953 | 12    | 24  | [LV-1 T3](/lvs/lv1-t3)                      | ST-1 Luna  | Lunar impact          |
 | [WatherSat 1](/missions/weathersat1.md)               | 1954 | 01    | 07  | [LV-1 T1b](/lvs/lv1-t1b)                    | ST-1 49 Payload | LEO              |
-
+| [Luna 2](/missions/first-lunar-orbit.md)              | 1954 | 02    | 13  | [LV-2 L](/lvs/lv1-l)                        | ST-1 Luna  | Lunar orbit           |
 
 
 
