@@ -1,4 +1,4 @@
-## Spying on the neighbors
+
 
 ![](crew﻿-so1.jpg)
 ### 17 - 07 - 1952

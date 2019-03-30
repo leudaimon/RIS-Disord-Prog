@@ -1,8 +1,7 @@
 ## First Weather Satellite
 
 ![](.jpg)
-
-##First attempt
+## First attempt
 ### 14 - 04 - 1953
 
 |          |                |
@@ -16,7 +15,7 @@
 
 **Mission acomplised:** LAUNCH FAILURE - One of the third stage engines failed to ignite
 
-##Second attempt
+## Second attempt
 ### 16 - 06 - 1953
 
 |          |                |

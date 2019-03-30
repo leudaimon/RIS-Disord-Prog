@@ -1,5 +1,5 @@
 
-![](cover.jpg)
+![](/missions/lunar-impact.png)
 ### A very Brazilian space program
 
 The Disordered Progression Space Program is aiming to win the wild race that started in recent years into Space. 
@@ -36,6 +36,9 @@ The Disordered Progression Space Program is aiming to win the wild race that sta
 | [Weather Satellite](/missions/first-weather.md)       | 1953 | 06    | 16  | [LV-1 T1b](/lvs/lv1-t1b)                    | ST-1 6 Payload | LEO               |
 | [NavSat 1](/missions/navsat1.md)                      | 1953 | 08    | 07  | [LV-1 T1b](/lvs/lv1-t1b)                    | ST-1 60 Payload | LEO              |
 | [WatherSat 1](/missions/weathersat1.md)               | 1953 | 09    | 27  | [LV-1 T1b](/lvs/lv1-t1b)                    | ST-1 49 Payload | **FAILURE**      |
+| [Luna 1](/missions/first-lunar-impact.md)             | 1953 | 12    | 24  | [LV-1 T3](/lvs/lv1-t3)                      | ST-1 Luna  | Lunar impact          |
+| [WatherSat 1](/missions/weathersat1.md)               | 1954 | 01    | 07  | [LV-1 T1b](/lvs/lv1-t1b)                    | ST-1 49 Payload | LEO              |
+
 
 
 
@@ -54,4 +57,4 @@ The Disordered Progression Space Program is aiming to win the wild race that sta
 1. Basic Avionics and Probes - March 1953
 1. Early Materials Science - June 1953
 1. Satellite Era Materials Science - October 1953
-
+1. Orbital Rocketry 1956-1957 - January 1954
