@@ -41,6 +41,9 @@ The Disordered Progression Space Program is aiming to win the wild race that sta
 | [Luna 2](/missions/first-lunar-orbit.md)              | 1954 | 02    | 13  | [LV-2 L](/lvs/lv2-l)                        | ST-1 Luna  | Lunar orbit           |
 | [Luna 3](/missions/lunar-impact-2.md)                 | 1954 | 03    | 10  | [LV-1 T3](/lvs/lv1-t3)                      | ST-1 Luna  | **FAILURE**           |
 | [GEO](/missions/first-geo.md)                         | 1954 | 03    | 30  | [LV-2 L](/lvs/lv2-l)                        | ST-1 13 Payload | GEO              |
+| [Luna 3](/missions/lunar-impact-2.md)                 | 1954 | 04    | 24  | [LV-2 L](/lvs/lv2-l)                        | ST-1 Luna  | Lunar impact          |
+| [Luna 4](/missions/lunar-orbit-2.md)                  | 1954 | 05    | 15  | [LV-2 L](/lvs/lv2-l)                        | ST-1 Luna  | Lunar orbit           |
+| [NavSat 2](/missions/navsat1.md)                      | 1954 | 06    | 03  | [LV-2 L](/lvs/lv2-l)                        | 60 Payload | LEO                   |
 
 ### Technology already developed:
 
