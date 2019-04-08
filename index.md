@@ -43,7 +43,16 @@ The Disordered Progression Space Program is aiming to win the wild race that sta
 | [GEO](/missions/first-geo.md)                         | 1954 | 03    | 30  | [LV-2 L](/lvs/lv2-l)                        | ST-1 13 Payload | GEO              |
 | [Luna 3](/missions/lunar-impact-2.md)                 | 1954 | 04    | 24  | [LV-2 L](/lvs/lv2-l)                        | ST-1 Luna  | Lunar impact          |
 | [Luna 4](/missions/lunar-orbit-2.md)                  | 1954 | 05    | 15  | [LV-2 L](/lvs/lv2-l)                        | ST-1 Luna  | Lunar orbit           |
-| [NavSat 2](/missions/navsat1.md)                      | 1954 | 06    | 03  | [LV-2 L](/lvs/lv2-l)                        | 60 Payload | LEO                   |
+| [NavSat 2](/missions/navsat2.md)                      | 1954 | 06    | 03  | [LV-2 L](/lvs/lv2-l)                        | 60 Payload | LEO                   |
+| [Communication satellite](/missions/first-comm.md)    | 1954 | 06    | 25  | [LV-2 L](/lvs/lv2-l)                        | 79 Payload | LEO                   |
+| [NavSat2G 1](/missions/navsat-2g-1.md)                | 1954 | 07    | 17  | [LV-2 L](/lvs/lv2-l)                        | 121 Payload | LEO                  |
+| [WatherSat 2](/missions/weathersat2.md)               | 1954 | 08    | 06  | [LV-2 L](/lvs/lv2-l)                        | 49 Payload | LEO                   |
+| [NavSat2G 2](/missions/navsat-2g-2.md)                | 1954 | 09    | 02  | [LV-2 L](/lvs/lv2-l)                        | 111 Payload | LEO                  |
+| [Luna 5](/missions/lunar-orbit-3.md)                  | 1954 | 12    | 08  | [LV-2 M](/lvs/lv2-m)                        | PB-1 Luna  | Lunar orbit           |
+| [Molnyia](/missions/molnyia.md)                       | 1954 | 12    | 19  | [LV-2 L](/lvs/lv2-l)                        | XX Payload | **FAILURE**           |
+| [Luna 6](/missions/first-lunar-lander.md)             | 1955 | 03    | 14  | [LV-2 M](/lvs/lv2-m)                        | PB-1 Luna land  | Lunar surface    |
+| [Molnyia](/missions/molnyia.md)                       | 1955 | 03    | 20  | [LV-2 L](/lvs/lv2-l)                        | XX Payload | Molnyia orbit         |
+
 
 ### Technology already developed:
 
@@ -61,3 +70,5 @@ The Disordered Progression Space Program is aiming to win the wild race that sta
 1. Early Materials Science - June 1953
 1. Satellite Era Materials Science - October 1953
 1. Orbital Rocketry 1956-1957 - January 1954
+1. Basic Avionics and Probes - June 1954
+1. Lunar communications - September 1954

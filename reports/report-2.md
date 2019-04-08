@@ -36,5 +36,16 @@ This satellite was soon followed by a [second one](../missions/sso-orbit.md), th
 specific sun-synchronous orbit. This is a slightly retrograde orbit that uses the shape of the Earth's gravity field to stay always with the same position relative to the sun. When the technology to 
 acquire images of the Earth is available, this will be the preferred orbit for Earth imaging satellites.
 
-CONTINUES...
+After that, the development of instruments able to probe the environment in outer space was the main limitation to launching a real scientific satellite. With that in mind, the manufacture of the next orbital rocket to launch this satellite was put
+on hold, waiting for the proper equipment to be properly developed, and some more crewed flights were done. These had the objective of keeping the public aware and supporting the space program, and also acquire more flight data and experience 
+for the astronauts. 
+
+Finally, in October 1952 the instruments to measure the radiation and amount of micrometeorites in space were flight-ready, and the production of the next LV was resumed. A very similar design to the previous launches, it was equipped with
+a wide range of experiments to measure both atmospheric conditions remotely, as well as the environment in space. In November 12, 1952, the [LV-1](../lvs/lv1-t1) rocket was in the launch pad, with a full blown scientific satellite 
+ready to be launched. The [rocket worked flawlessly](../missions/science-orbit.md), and the satellite was launched into a higher, elliptical orbit, to be exposed to a wide variety of environments. The results obtained were exciting, 
+with the discovery of radiation belts around Earth, caused by the magnetic field and solar wind, and predicted in theoretical models. The observations of the atmospheric conditions also showed that Weather satellites are possible.
+
+This huge success brought a lot of attention to the DPSP, so much so that administration saw the opportunity to set even higher goals. As they had well learnt from the previous promises of sending the first satellites, making bold promises can bring a lot 
+of money. That's why in the aftermath of this success, the administrator promised to send a probe into a direct course into the moon, getting a lot of data all the way until it crashed. This crash would also be observable from Earth, allowing for even more 
+information on the ejecta to be gained.
 

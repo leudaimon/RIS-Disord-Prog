@@ -1,6 +1,6 @@
 ## Useful sats are also possible
 
-![]()
+![](lunar-impact.png)
 ### 12 - 11 - 1952
 
 |          |                |
